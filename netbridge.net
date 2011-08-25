@@ -1,0 +1,210 @@
+# EESchema Netlist Version 1.1 created  Thu 25 Aug 2011 13:17:47 HKT
+(
+ ( /4E55C029 LED-5MM D1 LED
+  ( 1 N-000008 )
+  ( 2 N-000018 )
+ )
+ ( /4E55CA18 LED-5MM D2 LED
+  ( 1 N-000002 )
+  ( 2 N-000003 )
+ )
+ ( /4E55C05B LED-5MM D3 LED
+  ( 1 N-000007 )
+  ( 2 N-000011 )
+ )
+ ( /4E55C08A PIN_ARRAY_2X1 P1 CONN_2
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4E55C042 R3 R1 100R
+  ( 1 VCC )
+  ( 2 N-000008 )
+ )
+ ( /4E55CA27 R3 R2 0R
+  ( 1 N-000016 )
+  ( 2 N-000018 )
+ )
+ ( /4E55CA25 R3 R3 0R
+  ( 1 VCC )
+  ( 2 N-000017 )
+ )
+ ( /4E55CA24 R3 R4 10K
+  ( 1 N-000006 )
+  ( 2 N-000017 )
+ )
+ ( /4E55CA17 R3 R5 100R
+  ( 1 VCC )
+  ( 2 N-000002 )
+ )
+ ( /4E55CA09 R3 R6 0R
+  ( 1 N-000005 )
+  ( 2 N-000020 )
+ )
+ ( /4E55CA0B R3 R7 0R
+  ( 1 VCC )
+  ( 2 N-000019 )
+ )
+ ( /4E55CA0C R3 R8 10K
+  ( 1 N-000004 )
+  ( 2 N-000019 )
+ )
+ ( /4E55C05A R3 R9 100R
+  ( 1 VCC )
+  ( 2 N-000007 )
+ )
+ ( /4E55C85D R3 R10 0R
+  ( 1 N-000009 )
+  ( 2 GND )
+ )
+ ( /4E55C016 R3 R11 0R
+  ( 1 VCC )
+  ( 2 N-000013 )
+ )
+ ( /4E55C114 R3 R12 10K
+  ( 1 N-000014 )
+  ( 2 N-000013 )
+ )
+ ( /4E55CA16 SW_FSMJSMA S1 LIGHT1
+  ( 1 N-000018 )
+  ( 3 ? )
+ )
+ ( /4D30766C SW_FSMJSMA S2 LIGHT2
+  ( 1 N-000020 )
+  ( 2 GND )
+  ( 3 ? )
+  ( 4 N-000011 )
+ )
+ ( /4E55CA23 DIP-8__300_ELL U1 24C512
+  ( 1 N-000017 )
+  ( 2 N-000017 )
+  ( 3 N-000017 )
+  ( 4 N-000016 )
+  ( 5 N-000006 )
+  ( 6 N-000016 )
+  ( 7 N-000016 )
+  ( 8 N-000017 )
+ )
+ ( /4E55CA0D DIP-8__300_ELL U2 24C512
+  ( 1 N-000019 )
+  ( 2 N-000019 )
+  ( 3 N-000019 )
+  ( 4 N-000005 )
+  ( 5 N-000004 )
+  ( 6 N-000005 )
+  ( 7 N-000005 )
+  ( 8 N-000019 )
+ )
+ ( /4E55BFCE DIP-8__300_ELL U3 24C512
+  ( 1 N-000013 )
+  ( 2 N-000013 )
+  ( 3 N-000013 )
+  ( 4 N-000009 )
+  ( 5 N-000014 )
+  ( 6 N-000009 )
+  ( 7 N-000009 )
+  ( 8 N-000013 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$endfootprintlist
+}

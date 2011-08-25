@@ -1,0 +1,150 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-12 BZR 3047)-stable date = Thu 25 Aug 2011 13:17:47 HKT
+
+BeginCmp
+TimeStamp = /4E55C029;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55CA18;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55C05B;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55C08A;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55C042;
+Reference = R1;
+ValeurCmp = 100R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55CA27;
+Reference = R2;
+ValeurCmp = 0R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55CA25;
+Reference = R3;
+ValeurCmp = 0R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55CA24;
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55CA17;
+Reference = R5;
+ValeurCmp = 100R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55CA09;
+Reference = R6;
+ValeurCmp = 0R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55CA0B;
+Reference = R7;
+ValeurCmp = 0R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55CA0C;
+Reference = R8;
+ValeurCmp = 10K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55C05A;
+Reference = R9;
+ValeurCmp = 100R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55C85D;
+Reference = R10;
+ValeurCmp = 0R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55C016;
+Reference = R11;
+ValeurCmp = 0R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55C114;
+Reference = R12;
+ValeurCmp = 10K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55CA16;
+Reference = S1;
+ValeurCmp = LIGHT1;
+IdModule  = SW_FSMJSMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D30766C;
+Reference = S2;
+ValeurCmp = LIGHT2;
+IdModule  = SW_FSMJSMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55CA23;
+Reference = U1;
+ValeurCmp = 24C512;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55CA0D;
+Reference = U2;
+ValeurCmp = 24C512;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E55BFCE;
+Reference = U3;
+ValeurCmp = 24C512;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+EndListe
